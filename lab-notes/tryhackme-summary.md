@@ -1,4 +1,4 @@
-# TryHackMe - SOC Level 1 Lab: Phishing Investigation
+# TryHackMe - Junior Security Analyst Lab: Phishing Investigation
 
 ## 🧪 Lab Overview
 This investigation was done in the Junior Security analyst room on TryHackMe. The goal was to analyze a suspicious phishing alert using Splunk and identify whether it was a true positive or false positive.
