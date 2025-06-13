@@ -6,7 +6,7 @@ This project demonstrates how I used Splunk to investigate phishing alerts based
 
 ## 🧰 Tools Used
 - Splunk
-- TryHackMe (SOC Lab)
+- TryHackMe (Junior Security Analyst Lab)
 - VirtualBox (Kali VM)
 - GitHub
 
@@ -26,7 +26,7 @@ Check the `screenshots/` folder to see examples of the alerts and Splunk dashboa
 - `dashboards/`: Any dashboard visuals 
 
 ## 🔗 TryHackMe Lab
-Lab used: `SOC ` on [TryHackMe.com](https://tryhackme.com)
+Lab used: `Junior Security Analyst` on [TryHackMe.com](https://tryhackme.com)
 
 ## 📌 Purpose
 This is part of my learning journey into SOC operations, phishing detection, and using Splunk as a SIEM tool. I built this to showcase my hands-on skills and investigation process.
