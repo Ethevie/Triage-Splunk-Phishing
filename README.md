@@ -30,3 +30,8 @@ Lab used: `Junior Security Analyst` on [TryHackMe.com](https://tryhackme.com)
 
 ## 📌 Purpose
 This is part of my learning journey into SOC operations, phishing detection, and using Splunk as a SIEM tool. I built this to showcase my hands-on skills and investigation process.
+
+## 📝 Labs & Investigations
+
+📌 [Phishing Incident Report & Escalation Template](./lab-notes/Phishing_Incident_Report_and_Template.md)  
+Detailed report on analyzing a phishing email alert using Splunk, including steps taken, escalation, and a reusable documentation template.
